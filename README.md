@@ -1,15 +1,12 @@
 # KayakingTheVideoGame
 
-## High Concept
+Use this README to store key information.
 
-## Genre
+## Keyboard Layout
+###
 
-## Gameplay
-### - Overview
+##
 
-### - Core Mechanics
+##
 
-### - Game objectives and rewards
-
-
-## Aesthetics and UI
+##
